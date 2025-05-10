@@ -1,2 +1,2 @@
 # Classification-of-Land-Cover-Type
-This project applies data science and machine learning techniques to classify different types of land cover.
+This project applies data science and machine learning techniques to classify different types of land cover. The repository includes multiple files: the .ipynb Jupyter Notebook files are intended for use in a development environment such as GitHub.dev, Google Colab, or Jupyter Lab, while the corresponding .py Python files are provided for easy code preview directly on GitHub.
